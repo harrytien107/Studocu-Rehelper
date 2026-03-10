@@ -2,7 +2,7 @@
 
 Một tiện ích mở rộng nhẹ dành cho trình duyệt, giúp tối ưu hóa trải nghiệm đọc và lưu trữ tài liệu trên Studocu.
 
-> **Trạng thái:** v1.0
+> **Trạng thái:** v2.0
 
 ## 📖 Giới thiệu
 
