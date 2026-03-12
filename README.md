@@ -1,5 +1,9 @@
 #  Studocu Rehelper | [`EN`](./README.en.md)
 
+<p align="center">
+  <img src="img/text-color.svg" alt="Studocu Rehelper logo" width="260" />
+</p>
+
 >**Đây là tiện ích được làm lại từ tác giả gốc [Studocu-helper](https://github.com/xDatx/Studocu-Helper).**
 
 Một tiện ích mở rộng nhẹ dành cho trình duyệt, giúp tối ưu hóa trải nghiệm đọc và lưu trữ tài liệu trên Studocu.
